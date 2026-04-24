@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/zakikhan/claude/**)",
+      "Read(//Users/zakikhan/**)",
+      "Bash(chmod +x /Users/zakikhan/Library/Scripts/obsidian-inbox-filer.py)",
+      "Bash(npm install:*)",
+      "Bash(sudo npm:*)",
+      "Bash(npm run:*)",
+      "Bash(npx vercel:*)",
+      "Bash(npm list:*)",
+      "Bash(mkdir -p \"/Users/zakikhan/.claude/projects/-Users-zakikhan-Library-Mobile Documents-com~apple~CloudDocs-Documents-brain/memory\")",
+      "Bash(cp -r \"/Users/zakikhan/.claude/projects/-Users-zakikhan-claude-recleague-app/memory/\"* \"/Users/zakikhan/.claude/projects/-Users-zakikhan-Library-Mobile Documents-com~apple~CloudDocs-Documents-brain/memory/\")",
+      "WebFetch(domain:api.themoviedb.org)",
+      "Bash(curl -s \"https://image.tmdb.org/t/p/w500/4GIqZUgPZ146BhibsPHMHef2nXX.jpg\" -o \"/Users/zakikhan/Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/Attachments/Eddington.jpg\")",
+      "Bash(vercel --prod)",
+      "Bash(vercel deploy *)",
+      "Bash(vercel --prod --yes)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}
